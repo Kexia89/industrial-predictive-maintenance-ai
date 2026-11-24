@@ -1,0 +1,14 @@
+,importance
+type_H,0.017596299
+temperature_torque,0.019079236
+Process temperature (K),0.019112416
+type_L,0.023462858
+type_M,0.029317362
+Air temperature (K),0.037119143
+Tool wear (min),0.07734427
+angular_speed,0.09922635
+temperature_delta,0.102101855
+Torque (Nm),0.118597664
+torque_wear,0.119504504
+mechanical_power_w,0.13028191
+Rotational speed (rpm),0.20725603
