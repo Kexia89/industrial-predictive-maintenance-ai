@@ -8,7 +8,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-3.1.3-EB7134) ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white) ![Data](https://img.shields.io/badge/Dataset-AI4I%202020-168A82)
 
-[Methodology](#methodology) · [Mathematics](#mathematical-foundation) · [Results](#experimental-results) · [Quick start](#quick-start) · [Deployment](#cloud-deployment)
+[![Open live demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://industrial-ai-89.streamlit.app/)
+
+[Live demo](https://industrial-ai-89.streamlit.app/) · [Methodology](#methodology) · [Mathematics](#mathematical-foundation) · [Results](#experimental-results) · [Quick start](#quick-start) · [Deployment](#cloud-deployment)
 
 </div>
 
@@ -165,6 +167,8 @@ The recorded training and candidate-selection time was 0.523 s, and the test sco
 
 ## Industrial AI Monitor
 
+**[Launch the interactive dashboard](https://industrial-ai-89.streamlit.app/)** — no local installation or retraining required.
+
 The dashboard offers manual sensor assessment, a score gauge, threshold-based alerts, session history, batch CSV scoring with downloadable outputs, training-range warnings and model evaluation charts. It does not connect to physical sensors. History reflects evaluations in the current session, not live telemetry.
 
 ## Quick start
@@ -213,7 +217,7 @@ Open [Streamlit Community Cloud](https://share.streamlit.io/), connect GitHub, c
 | Main file path | `app.py` |
 | Python | 3.11 (if offered) |
 
-Keep the model, metadata, result files and requirements in the repository. No API keys are needed for this implementation. The public demo URL can be added here after successful deployment. [Official deployment guide](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy).
+Keep the model, metadata, result files and requirements in the repository. No API keys are needed for this implementation. The public demo is available at [industrial-ai-89.streamlit.app](https://industrial-ai-89.streamlit.app/). [Official deployment guide](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy).
 
 ## Limitations and next steps
 
@@ -230,6 +234,15 @@ Keep the model, metadata, result files and requirements in the repository. No AP
 - [XGBoost documentation](https://xgboost.readthedocs.io/).
 - [Scikit-learn model evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html).
 - [Streamlit documentation](https://docs.streamlit.io/).
+
+## About KEXIA
+
+Developed by **KEXIA — Artificial Intelligence Research & Engineering**.
+
+- [GitHub organization](https://github.com/Kexia89)
+- [Developer profile](https://github.com/KexiaCI)
+- [Live industrial dashboard](https://industrial-ai-89.streamlit.app/)
+- Contact: kexia.tekno@gmail.com
 
 ---
 <div align="center"><strong>KEXIA</strong> · Applied Artificial Intelligence · Industrial Analytics</div>
